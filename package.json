@@ -1,0 +1,20 @@
+{
+  "name": "mailchimpform",
+  "version": "1.0.0",
+  "description": "This will be a test and template once completed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AffiliateThis/mailchimpform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AffiliateThis/mailchimpform/issues"
+  },
+  "homepage": "https://github.com/AffiliateThis/mailchimpform#readme"
+}
